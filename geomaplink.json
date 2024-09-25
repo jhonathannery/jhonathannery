@@ -1,0 +1,158 @@
+[
+  {
+    "key" : "BRD",
+    "name" : "BRDigital",
+    "latitude" : -15.868468787866183,
+    "longitude" : -47.9733025319131
+  },
+  {
+    "key" : "TAG",
+    "name" : "Taguatinga",
+    "latitude" : -15.82035154748586,
+    "longitude" : -48.06449815288885
+  },
+  {
+    "key" : "SOB1",
+    "name" : "Sobradinho 01",
+    "latitude" : -15.655409939458943,
+    "longitude" : -47.80467172195588
+  },
+  {
+    "key" : "GR1",
+    "name" : "Guara 1",
+    "latitude" : -15.818950036399416,
+    "longitude" : -47.983731559818416
+  },
+  {
+    "key" : "GR2",
+    "name" : "Guara 2",
+    "latitude" : -15.8395111169824,
+    "longitude" : -47.96614290399717
+  },
+  {
+    "key" : "SOB2",
+    "name" : "Sobradinho 2",
+    "latitude" : -15.650412761355716,
+    "longitude" : -47.78269012794459
+  },
+  {
+    "key" : "ASN",
+    "name" : "Asa Norte",
+    "latitude" : -15.772468912810988,
+    "longitude" : -47.89270110001095
+  },
+  {
+    "key" : "TGN",
+    "name" : "Taguatinga Norte",
+    "latitude" : -15.814057881210836,
+    "longitude" : -48.08339200203707
+  },
+  {
+    "key" : "CEI",
+    "name" : "Ceilândia",
+    "latitude" : -15.802466198796234,
+    "longitude" : -48.105416773202144
+  },
+  {
+    "key" : "GO",
+    "name" : "Goiás",
+    "latitude" : -16.6864,
+    "longitude" : -49.2643
+  },
+  {
+    "key" : "PB",
+    "name" : "Paraíba",
+    "latitude" : -7.11509,
+    "longitude" : -34.8641
+  },
+  {
+    "key" : "AP",
+    "name" : "Amapá",
+    "latitude" : 0.034934,
+    "longitude" : -51.0694
+  },
+  {
+    "key" : "AL",
+    "name" : "Alagoas",
+    "latitude" : -9.66599,
+    "longitude" : -35.735
+  },
+  {
+    "key" : "AM",
+    "name" : "Amazonas",
+    "latitude" : -3.11866,
+    "longitude" : -60.0212
+  },
+  {
+    "key" : "RN",
+    "name" : "Rio Grande do Norte",
+    "latitude" : -5.79357,
+    "longitude" : -35.1986
+  },
+  {
+    "key" : "TO",
+    "name" : "Tocantins",
+    "latitude" : -10.24,
+    "longitude" : -48.3558
+  },
+  {
+    "key" : "RS",
+    "name" : "Rio Grande do Sul",
+    "latitude" : -30.0318,
+    "longitude" : -51.2065
+  },
+  {
+    "key" : "RO",
+    "name" : "Rondônia",
+    "latitude" : -8.76077,
+    "longitude" : -63.8999
+  },
+  {
+    "key" : "PE",
+    "name" : "Pernambuco",
+    "latitude" : -8.04666,
+    "longitude" : -34.8771
+  },
+  {
+    "key" : "AC",
+    "name" : "Acre",
+    "latitude" : -9.97499,
+    "longitude" : -67.8243
+  },
+  {
+    "key" : "RJ",
+    "name" : "Rio de Janeiro",
+    "latitude" : -22.9129,
+    "longitude" : -43.2003
+  },
+  {
+    "key" : "BA",
+    "name" : "Bahia",
+    "latitude" : -12.9718,
+    "longitude" : -38.5011
+  },
+  {
+    "key" : "MA",
+    "name" : "Maranhão",
+    "latitude" : -2.53874,
+    "longitude" : -44.2825
+  },
+  {
+    "key" : "SP",
+    "name" : "São Paulo",
+    "latitude" : -23.5329,
+    "longitude" : -46.6395
+  },
+  {
+    "key" : "PI",
+    "name" : "Piauí",
+    "latitude" : -5.09194,
+    "longitude" : -42.8034
+  },
+  {
+    "key" : "ES",
+    "name" : "Espírito Santo",
+    "latitude" : -20.3155,
+    "longitude" : -40.3128
+  }
+]
